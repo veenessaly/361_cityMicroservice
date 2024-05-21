@@ -22,4 +22,4 @@ with open("country_output.txt", "r+") as f:
   capital = f.read()
   f.close()
 
-<img width="848" alt="Screen Shot 2024-05-20 at 10 16 09 PM" src="https://github.com/veenessaly/361_cityMicroservice/assets/67206999/bc648822-10b0-473a-8ed3-e3578e86e4ef">
+<img width="964" alt="Screen Shot 2024-05-20 at 10 22 24 PM" src="https://github.com/veenessaly/361_cityMicroservice/assets/67206999/e4845e87-ba3a-48cd-ad13-1a201a35dd7a">
